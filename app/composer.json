@@ -1,0 +1,12 @@
+{
+    "name": "app",
+    "require": {
+        "cakephp/cakephp": "2.6.*"
+    },
+    "require-dev": {
+        "cakephp/debug_kit": "2.2.*"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
